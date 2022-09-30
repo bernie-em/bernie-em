@@ -1,4 +1,4 @@
-Hi! I'm Bernie 👋 
+👋 Hi! I'm Bernie  
 
 🌱 Relentless learner, systems thinker, human geographer and now software developer. 
 
