@@ -1,10 +1,8 @@
-Hi! 👋 
+Hi! I'm Bernie 👋 
 
-I'm Bernie. 
+🌱 Relentless learner, systems thinker, human geographer. 
 
-Relentless learner, systems thinker, human geographer. 
-
-Currently learning full stack development, AI and cloud technologies.
+🔭 Currently learning full stack development, AI and cloud technologies.
 
 <!--
 **bernie-em/bernie-em** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
