@@ -4,7 +4,7 @@
 
 🔭 Currently learning full stack development, AI and cloud technologies.
 
-⚡  HTML, CSS, JavaScript
+⚡  HTML, CSS, JavaScript, SQL and databasses, CI/CD
 
 <!--
 **bernie-em/bernie-em** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
