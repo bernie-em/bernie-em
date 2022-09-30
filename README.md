@@ -1,6 +1,6 @@
 👋 Hi! I'm Bernie  
 
-🌱 Relentless learner, systems thinker and problem solver.
+🌱 Relentless learner, countrysider, systems thinker, problem solver.
 
 🔭 Currently learning full stack development, AI and cloud technologies.
 
