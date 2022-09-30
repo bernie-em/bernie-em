@@ -4,7 +4,10 @@
 
 🔭 Currently learning full stack development, AI and cloud technologies.
 
-⚡  HTML, CSS, JavaScript, SQL and databasses, CI/CD
+⚡  HTML, CSS, JavaScript
+⚡  Cloud services (Azure, IBM Cloud, Google)
+⚡  CI/CD (GitHub Actions, SonarCloud)
+⚡  SQL & databases (MySQL, MongoDB, MongoAtlas)
 
 <!--
 **bernie-em/bernie-em** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
